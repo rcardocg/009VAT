@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -std=c11 -o main main.c && ./main 8 direcciones.txt 12345
